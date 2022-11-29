@@ -24,7 +24,7 @@
 
 >HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc.
 
-# FIRST HTML LINES
+# FIRST HTML CODE LINES
 
 **I know you are eager to write your first `HTML` code, but first let me tell you about some HTML `tags`**
 
