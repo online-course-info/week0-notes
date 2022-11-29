@@ -1,5 +1,5 @@
 
-# Requirements of this course:
+# Requirements for this course:
 >**Have the Visual Studio Code IDE installed aka `vs code`**
 >**Have the following Visual Studio Code extensions:**
 
